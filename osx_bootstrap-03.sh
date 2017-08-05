@@ -12,6 +12,7 @@ if test ! $(which brew); then
 fi
 
 CASKS=(
+    1password
     alfred
     appcleaner
     atom
