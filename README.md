@@ -10,8 +10,7 @@ This should be idempotent so it can be run multiple times.
 Some apps don't have a cask and so still need to be installed by hand. These
 include:
 
-- Twitter (app store)
-- Postgres.app (http://postgresapp.com/)
+- Amphetamine (app store)
 
 Notes:
 
