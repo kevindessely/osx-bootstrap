@@ -21,6 +21,7 @@ CASKS=(
     iterm2
     sourcetree
     moom
+    spotify
     sublime-text
     tunnelblick
     vlc
